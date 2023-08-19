@@ -1,8 +1,7 @@
---showing list--
 
-SHOW databases;
+SHOW databases; 
 
-USE leonstore;
+USE leonstore; 
 
 SHOW tables;
 
