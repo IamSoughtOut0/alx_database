@@ -1,6 +1,6 @@
 -- This is a single-line comment
 
-mysql -u root -p -e 
+mysql -uroot -p -e 
 
 USE mysql; 
 
