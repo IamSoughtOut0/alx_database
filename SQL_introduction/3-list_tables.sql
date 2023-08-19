@@ -1,5 +1,6 @@
 -- This is a single-line comment
 
-USE mysql; 
+USE mysql;
 
 SHOW TABLES;
+
