@@ -1,5 +1,7 @@
 -- This is a single-line comment
 
-USE mysql;
+mysql -u root -p -e 
 
-SHOW tables;
+USE mysql; 
+
+SHOW TABLES;
