@@ -1,7 +1,5 @@
 -- This is a single-line comment
 
-USE mysql;
-
 CREATE DATABASE holbteron;
 
 USE holbteron;
