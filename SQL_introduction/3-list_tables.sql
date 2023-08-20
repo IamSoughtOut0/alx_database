@@ -2,9 +2,9 @@
 
 USE mysql;
 
-CREATE TABLE IF NOT EXISTS holbteron_0;
-CREATE TABLE IF NOT EXISTS holbteron_1;
-CREATE TABLE IF NOT EXISTS holbteron_2;
+CREATE TABLE IF NOT EXISTS holbteron_0 (firstName varchar(50));
+CREATE TABLE IF NOT EXISTS holbteron_1 (streetName varchar(50));
+CREATE TABLE IF NOT EXISTS holbteron_2  (streetName varchar(50));
 
 SHOW TABLES;
 
