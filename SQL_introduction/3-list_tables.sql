@@ -1,7 +1,7 @@
 -- This is a single-line comment
 
 
-CREATE TABLE IF NOT EXISTS holbteron;
+CREATE DATABASE IF NOT EXISTS holbteron;
 
 USE holbteron;
 
