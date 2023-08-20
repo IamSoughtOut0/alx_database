@@ -1,5 +1,5 @@
 -- This is a single-line comment
-
+USE mysql;
 
 CREATE DATABASE IF NOT EXISTS holbteron;
 
