@@ -1,5 +1,7 @@
 -- This is a single-line comment
-USE DATABASE IF NOT EXISTS mysql;
+CREATE DATABASE IF NOT EXISTS mysql;
+
+USE mysql;
 
 CREATE DATABASE IF NOT EXISTS hbtn_test_db_0;
 
