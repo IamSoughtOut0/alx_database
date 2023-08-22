@@ -1,4 +1,5 @@
 -- This is a single-line comment  
+
 CREATE DATABASE IF NOT EXISTS mysql; 
 
 USE mysql; 
